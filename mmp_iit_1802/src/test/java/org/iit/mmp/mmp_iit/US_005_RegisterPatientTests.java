@@ -12,10 +12,6 @@ import org.testng.annotations.Test;
 public class US_005_RegisterPatientTests extends TestBaseClass {
 
 	HashMap<String, String> hMapPatientData;
-
-	firstname
-	
-	
 	@Test
 	public void registerPatientTest() throws Exception {
 
