@@ -9,7 +9,7 @@ public class TestBaseClass {
 	public void invokeBrowser()
 	{
  	    WebDriverManager.chromedriver().setup();
- 		driver = new ChromeDriver();
+ 		driver = new ChromeDriver()
 	}
 
 }
