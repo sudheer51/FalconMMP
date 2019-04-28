@@ -6,7 +6,7 @@ import org.testng.Reporter;
 
 public class LoginPage extends UtilityFunctions {
 	
-	//Instantiate the WebDriver
+	//Instantiate the WebDriver instance
 	WebDriver driver;
 	public LoginPage(WebDriver driver)
 	{
