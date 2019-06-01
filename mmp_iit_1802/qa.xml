@@ -5,7 +5,7 @@
 		<parameter name="url"
 			value="http://96.84.175.78/MMP-Release2-Integrated-Build.6.8.000/portal/login.php"></parameter>
 		<parameter name="username" value="ria1"></parameter>
-		<parameter name="password" value="Ria123456"></parameter>
+		<parameter name="password" value="Ria12345"></parameter>
 
 		<classes>
 			<class name="org.iit.mmp.mmp_iit.US_003_NavigationLinks" />
