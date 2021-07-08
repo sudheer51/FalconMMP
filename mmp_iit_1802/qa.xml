@@ -9,6 +9,12 @@
 
 		<classes>
 			<class name="org.iit.mmp.mmp_iit.US_003_NavigationLinks" />
+			<class name="org.iit.mmp.mmp_iit.US_003_NavigationLinks" />
+			<class name="org.iit.mmp.mmp_iit.US_003_NavigationLinks" />
+			<class name="org.iit.mmp.mmp_iit.US_003_NavigationLinks" />
+			<class name="org.iit.mmp.mmp_iit.US_003_NavigationLinks" />
+			<class name="org.iit.mmp.mmp_iit.US_003_NavigationLinks" />
+			<class name="org.iit.mmp.mmp_iit.US_003_NavigationLinks" />
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->
